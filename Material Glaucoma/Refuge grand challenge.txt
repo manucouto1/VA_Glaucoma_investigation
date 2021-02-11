@@ -1,0 +1,7 @@
+https://refuge.grand-challenge.org/details/
+
+https://scikit-image.org/docs/dev/auto_examples/registration/plot_register_rotation.html#sphx-glr-auto-examples-registration-plot-register-rotation-py
+
+https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_regionprops.html#sphx-glr-auto-examples-segmentation-plot-regionprops-py
+
+https://www.pyimagesearch.com/2014/09/29/finding-brightest-spot-image-using-python-opencv/
